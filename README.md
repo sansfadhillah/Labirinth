@@ -1,5 +1,5 @@
 # Labirinth
-game Labyrinth yang telah kami rancang yang bertujuan untuk memenuhi tugas akhir mata kuliah Grafika Komputer
+Game Labyrinth yang telah kami rancang yang bertujuan untuk memenuhi tugas akhir mata kuliah Grafika Komputer
 
 ## Tim 11 P2 Grafika Komputer
 Anggota tim:
@@ -29,9 +29,9 @@ Mengunjungi semua target serta meminimalisisir interaksi dengan tembok
 | G64180071| Ihsan Fadhila Wika Putra | Designer, Artist, Programmer |
 
 ## List Aset
-aset yang dibuat oleh kami menggunakan aset yang sudah tersedia di unity lalu memodifikasinya
+Aset yang dibuat oleh kami menggunakan aset yang sudah tersedia di unity lalu memodifikasinya
 
-aset yang kami ambil dari internet:
+Aset yang kami ambil dari internet:
 
 - sfx eat target
 - sfx hit wall
